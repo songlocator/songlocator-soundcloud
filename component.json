@@ -1,0 +1,11 @@
+{
+  "name": "songlocator-soundcloud",
+  "version": "0.1.0",
+  "description": "SongLocator resolver for SoundCloud",
+  "tags": ["songlocator", "api", "music", "streaming", "audio", "resolver", "soundcloud"],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "main": ["./songlocator-soundcloud.js"],
+  "dependencies": {
+    "songlocator-base": "~0.1.1"
+  }
+}
